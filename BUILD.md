@@ -68,7 +68,7 @@ conda env update -n cuml_dev --file=conda/environments/all_cuda-133_arch-$(uname
 conda activate cuml_dev
 ```
 
-## Installing from Source
+## Installing from the Source
 
 ### Recommended Process
 
